@@ -3,7 +3,7 @@
 ## AIM:
 To create a warehouse application in salesforce.com
 
-## Procedure
+## Procedure 
 
 ### Types of Applications in SFDC
 
